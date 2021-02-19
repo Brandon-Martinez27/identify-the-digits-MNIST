@@ -1,6 +1,7 @@
 Challenge competition from [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-digits/#ProblemStatement)
 
 Background
+
 About Practice Problem: Identify the Digits
 
 Automatic digit recognition is of popular interest today. Deep Learning techniques makes it possible for object recognition in image data . This practice problem is meant to give you a kick start in deep learning. As usual, we will not only provide you with the challenge and a solution checker, but also a set of tutorials to get you off the ground!
